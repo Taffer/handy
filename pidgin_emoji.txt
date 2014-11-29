@@ -1,0 +1,4350 @@
+
+COMPLETE 1
+CASE 1
+BAD :pound:
+GOOD 💷
+
+COMPLETE 1
+CASE 1
+BAD :arrow_double_up:
+GOOD ⏫
+
+COMPLETE 1
+CASE 1
+BAD :microscope:
+GOOD 🔬
+
+COMPLETE 1
+CASE 1
+BAD :arrow_backward:
+GOOD ◀
+
+COMPLETE 1
+CASE 1
+BAD :weary:
+GOOD 😩
+
+COMPLETE 1
+CASE 1
+BAD :laughing:
+GOOD 😆
+
+COMPLETE 1
+CASE 1
+BAD :arrow_heading_up:
+GOOD ⤴
+
+COMPLETE 1
+CASE 1
+BAD :ear:
+GOOD 👂
+
+COMPLETE 1
+CASE 1
+BAD :arrows_counterclockwise:
+GOOD 🔄
+
+COMPLETE 1
+CASE 1
+BAD :palm_tree:
+GOOD 🌴
+
+COMPLETE 1
+CASE 1
+BAD :mushroom:
+GOOD 🍄
+
+COMPLETE 1
+CASE 1
+BAD :crescent_moon:
+GOOD 🌙
+
+COMPLETE 1
+CASE 1
+BAD :golf:
+GOOD ⛳
+
+COMPLETE 1
+CASE 1
+BAD :dog2:
+GOOD 🐕
+
+COMPLETE 1
+CASE 1
+BAD :dart:
+GOOD 🎯
+
+COMPLETE 1
+CASE 1
+BAD :light_rail:
+GOOD 🚈
+
+COMPLETE 1
+CASE 1
+BAD :night_with_stars:
+GOOD 🌃
+
+COMPLETE 1
+CASE 1
+BAD :grey_exclamation:
+GOOD ❕
+
+COMPLETE 1
+CASE 1
+BAD :ramen:
+GOOD 🍜
+
+COMPLETE 1
+CASE 1
+BAD :jack_o_lantern:
+GOOD 🎃
+
+COMPLETE 1
+CASE 1
+BAD :thought_balloon:
+GOOD 💭
+
+COMPLETE 1
+CASE 1
+BAD :leo:
+GOOD ♌
+
+COMPLETE 1
+CASE 1
+BAD :question:
+GOOD ❓
+
+COMPLETE 1
+CASE 1
+BAD :mailbox_with_mail:
+GOOD 📬
+
+COMPLETE 1
+CASE 1
+BAD :school_satchel:
+GOOD 🎒
+
+COMPLETE 1
+CASE 1
+BAD :symbols:
+GOOD 🔣
+
+COMPLETE 1
+CASE 1
+BAD :princess:
+GOOD 👸
+
+COMPLETE 1
+CASE 1
+BAD :virgo:
+GOOD ♍
+
+COMPLETE 1
+CASE 1
+BAD :womens:
+GOOD 🚺
+
+COMPLETE 1
+CASE 1
+BAD :yum:
+GOOD 😋
+
+COMPLETE 1
+CASE 1
+BAD :heart:
+GOOD ❤
+
+COMPLETE 1
+CASE 1
+BAD :red_car:
+GOOD 🚗
+
+COMPLETE 1
+CASE 1
+BAD :fast_forward:
+GOOD ⏩
+
+COMPLETE 1
+CASE 1
+BAD :clock5:
+GOOD 🕔
+
+COMPLETE 1
+CASE 1
+BAD :monkey:
+GOOD 🐒
+
+COMPLETE 1
+CASE 1
+BAD :smoking:
+GOOD 🚬
+
+COMPLETE 1
+CASE 1
+BAD :pray:
+GOOD 🙏
+
+COMPLETE 1
+CASE 1
+BAD :iphone:
+GOOD 📱
+
+COMPLETE 1
+CASE 1
+BAD :congratulations:
+GOOD ㊗
+
+COMPLETE 1
+CASE 1
+BAD :ok_hand:
+GOOD 👌
+
+COMPLETE 1
+CASE 1
+BAD :scream:
+GOOD 😱
+
+COMPLETE 1
+CASE 1
+BAD :family:
+GOOD 👪
+
+COMPLETE 1
+CASE 1
+BAD :rotating_light:
+GOOD 🚨
+
+COMPLETE 1
+CASE 1
+BAD :secret:
+GOOD ㊙
+
+COMPLETE 1
+CASE 1
+BAD :roller_coaster:
+GOOD 🎢
+
+COMPLETE 1
+CASE 1
+BAD :swimmer:
+GOOD 🏊
+
+COMPLETE 1
+CASE 1
+BAD :eight:
+GOOD 8⃣
+
+COMPLETE 1
+CASE 1
+BAD :japanese_castle:
+GOOD 🏯
+
+COMPLETE 1
+CASE 1
+BAD :cool:
+GOOD 🆒
+
+COMPLETE 1
+CASE 1
+BAD :shower:
+GOOD 🚿
+
+COMPLETE 1
+CASE 1
+BAD :mortar_board:
+GOOD 🎓
+
+COMPLETE 1
+CASE 1
+BAD :penguin:
+GOOD 🐧
+
+COMPLETE 1
+CASE 1
+BAD :see_no_evil:
+GOOD 🙈
+
+COMPLETE 1
+CASE 1
+BAD :shoe:
+GOOD 👞
+
+COMPLETE 1
+CASE 1
+BAD :bulb:
+GOOD 💡
+
+COMPLETE 1
+CASE 1
+BAD :sparkle:
+GOOD ❇
+
+COMPLETE 1
+CASE 1
+BAD :paw_prints:
+GOOD 🐾
+
+COMPLETE 1
+CASE 1
+BAD :cake:
+GOOD 🍰
+
+COMPLETE 1
+CASE 1
+BAD :bullettrain_front:
+GOOD 🚅
+
+COMPLETE 1
+CASE 1
+BAD :sun_with_face:
+GOOD 🌞
+
+COMPLETE 1
+CASE 1
+BAD :high_brightness:
+GOOD 🔆
+
+COMPLETE 1
+CASE 1
+BAD :raised_hand:
+GOOD ✋
+
+COMPLETE 1
+CASE 1
+BAD :beer:
+GOOD 🍺
+
+COMPLETE 1
+CASE 1
+BAD :guitar:
+GOOD 🎸
+
+COMPLETE 1
+CASE 1
+BAD :phone:
+GOOD ☎
+
+COMPLETE 1
+CASE 1
+BAD :radio:
+GOOD 📻
+
+COMPLETE 1
+CASE 1
+BAD :clock10:
+GOOD 🕙
+
+COMPLETE 1
+CASE 1
+BAD :kissing:
+GOOD 😗
+
+COMPLETE 1
+CASE 1
+BAD :panda_face:
+GOOD 🐼
+
+COMPLETE 1
+CASE 1
+BAD :no_smoking:
+GOOD 🚭
+
+COMPLETE 1
+CASE 1
+BAD :camel:
+GOOD 🐫
+
+COMPLETE 1
+CASE 1
+BAD :sandal:
+GOOD 👡
+
+COMPLETE 1
+CASE 1
+BAD :boat:
+GOOD ⛵
+
+COMPLETE 1
+CASE 1
+BAD :three:
+GOOD 3⃣
+
+COMPLETE 1
+CASE 1
+BAD :ledger:
+GOOD 📒
+
+COMPLETE 1
+CASE 1
+BAD :left_right_arrow:
+GOOD ↔
+
+COMPLETE 1
+CASE 1
+BAD :cat2:
+GOOD 🐈
+
+COMPLETE 1
+CASE 1
+BAD :haircut:
+GOOD 💇
+
+COMPLETE 1
+CASE 1
+BAD :green_book:
+GOOD 📗
+
+COMPLETE 1
+CASE 1
+BAD :tired_face:
+GOOD 😫
+
+COMPLETE 1
+CASE 1
+BAD :ng:
+GOOD 🆖
+
+COMPLETE 1
+CASE 1
+BAD :train2:
+GOOD 🚆
+
+COMPLETE 1
+CASE 1
+BAD :abcd:
+GOOD 🔡
+
+COMPLETE 1
+CASE 1
+BAD :card_index:
+GOOD 📇
+
+COMPLETE 1
+CASE 1
+BAD :two_women_holding_hands:
+GOOD 👭
+
+COMPLETE 1
+CASE 1
+BAD :chart_with_downwards_trend:
+GOOD 📉
+
+COMPLETE 1
+CASE 1
+BAD :cinema:
+GOOD 🎦
+
+COMPLETE 1
+CASE 1
+BAD :relaxed:
+GOOD ☺
+
+COMPLETE 1
+CASE 1
+BAD :large_orange_diamond:
+GOOD 🔶
+
+COMPLETE 1
+CASE 1
+BAD :mountain_railway:
+GOOD 🚞
+
+COMPLETE 1
+CASE 1
+BAD :nine:
+GOOD 9⃣
+
+COMPLETE 1
+CASE 1
+BAD :sunflower:
+GOOD 🌻
+
+COMPLETE 1
+CASE 1
+BAD :partly_sunny:
+GOOD ⛅
+
+COMPLETE 1
+CASE 1
+BAD :first_quarter_moon_with_face:
+GOOD 🌛
+
+COMPLETE 1
+CASE 1
+BAD :bus:
+GOOD 🚌
+
+COMPLETE 1
+CASE 1
+BAD :clock830:
+GOOD 🕣
+
+COMPLETE 1
+CASE 1
+BAD :hourglass_flowing_sand:
+GOOD ⏳
+
+COMPLETE 1
+CASE 1
+BAD :deciduous_tree:
+GOOD 🌳
+
+COMPLETE 1
+CASE 1
+BAD :trumpet:
+GOOD 🎺
+
+COMPLETE 1
+CASE 1
+BAD :knife:
+GOOD 🔪
+
+COMPLETE 1
+CASE 1
+BAD :church:
+GOOD ⛪
+
+COMPLETE 1
+CASE 1
+BAD :triangular_ruler:
+GOOD 📐
+
+COMPLETE 1
+CASE 1
+BAD :boot:
+GOOD 👢
+
+COMPLETE 1
+CASE 1
+BAD :blowfish:
+GOOD 🐡
+
+COMPLETE 1
+CASE 1
+BAD :factory:
+GOOD 🏭
+
+COMPLETE 1
+CASE 1
+BAD :thumbsdown:
+GOOD 👎
+
+COMPLETE 1
+CASE 1
+BAD :neutral_face:
+GOOD 😐
+
+COMPLETE 1
+CASE 1
+BAD :broken_heart:
+GOOD 💔
+
+COMPLETE 1
+CASE 1
+BAD :bear:
+GOOD 🐻
+
+COMPLETE 1
+CASE 1
+BAD :telescope:
+GOOD 🔭
+
+COMPLETE 1
+CASE 1
+BAD :smiling_imp:
+GOOD 😈
+
+COMPLETE 1
+CASE 1
+BAD :no_good:
+GOOD 🙅
+
+COMPLETE 1
+CASE 1
+BAD :calling:
+GOOD 📲
+
+COMPLETE 1
+CASE 1
+BAD :ab:
+GOOD 🆎
+
+COMPLETE 1
+CASE 1
+BAD :page_with_curl:
+GOOD 📃
+
+COMPLETE 1
+CASE 1
+BAD :angel:
+GOOD 👼
+
+COMPLETE 1
+CASE 1
+BAD :blue_heart:
+GOOD 💙
+
+COMPLETE 1
+CASE 1
+BAD :black_medium_square:
+GOOD ◼
+
+COMPLETE 1
+CASE 1
+BAD :man_with_turban:
+GOOD 👳
+
+COMPLETE 1
+CASE 1
+BAD :triangular_flag_on_post:
+GOOD 🚩
+
+COMPLETE 1
+CASE 1
+BAD :oncoming_taxi:
+GOOD 🚖
+
+COMPLETE 1
+CASE 1
+BAD :fried_shrimp:
+GOOD 🍤
+
+COMPLETE 1
+CASE 1
+BAD :anguished:
+GOOD 😧
+
+COMPLETE 1
+CASE 1
+BAD :non-potable_water:
+GOOD 🚱
+
+COMPLETE 1
+CASE 1
+BAD :stew:
+GOOD 🍲
+
+COMPLETE 1
+CASE 1
+BAD :horse_racing:
+GOOD 🏇
+
+COMPLETE 1
+CASE 1
+BAD :droplet:
+GOOD 💧
+
+COMPLETE 1
+CASE 1
+BAD :womans_clothes:
+GOOD 👚
+
+COMPLETE 1
+CASE 1
+BAD :oncoming_police_car:
+GOOD 🚔
+
+COMPLETE 1
+CASE 1
+BAD :crown:
+GOOD 👑
+
+COMPLETE 1
+CASE 1
+BAD :de:
+GOOD 🇩🇪
+
+COMPLETE 1
+CASE 1
+BAD :signal_strength:
+GOOD 📶
+
+COMPLETE 1
+CASE 1
+BAD :clock730:
+GOOD 🕢
+
+COMPLETE 1
+CASE 1
+BAD :snowboarder:
+GOOD 🏂
+
+COMPLETE 1
+CASE 1
+BAD :rewind:
+GOOD ⏪
+
+COMPLETE 1
+CASE 1
+BAD :closed_umbrella:
+GOOD 🌂
+
+COMPLETE 1
+CASE 1
+BAD :white_small_square:
+GOOD ▫
+
+COMPLETE 1
+CASE 1
+BAD :ballot_box_with_check:
+GOOD ☑
+
+COMPLETE 1
+CASE 1
+BAD :fallen_leaf:
+GOOD 🍂
+
+COMPLETE 1
+CASE 1
+BAD :ticket:
+GOOD 🎫
+
+COMPLETE 1
+CASE 1
+BAD :statue_of_liberty:
+GOOD 🗽
+
+COMPLETE 1
+CASE 1
+BAD :airplane:
+GOOD ✈
+
+COMPLETE 1
+CASE 1
+BAD :alien:
+GOOD 👽
+
+COMPLETE 1
+CASE 1
+BAD :mailbox_with_no_mail:
+GOOD 📭
+
+COMPLETE 1
+CASE 1
+BAD :woman:
+GOOD 👩
+
+COMPLETE 1
+CASE 1
+BAD :santa:
+GOOD 🎅
+
+COMPLETE 1
+CASE 1
+BAD :unlock:
+GOOD 🔓
+
+COMPLETE 1
+CASE 1
+BAD :no_mouth:
+GOOD 😶
+
+COMPLETE 1
+CASE 1
+BAD :japan:
+GOOD 🗾
+
+COMPLETE 1
+CASE 1
+BAD :es:
+GOOD 🇪🇸
+
+COMPLETE 1
+CASE 1
+BAD :arrow_heading_down:
+GOOD ⤵
+
+COMPLETE 1
+CASE 1
+BAD :train:
+GOOD 🚋
+
+COMPLETE 1
+CASE 1
+BAD :blue_car:
+GOOD 🚙
+
+COMPLETE 1
+CASE 1
+BAD :minibus:
+GOOD 🚐
+
+COMPLETE 1
+CASE 1
+BAD :clock6:
+GOOD 🕕
+
+COMPLETE 1
+CASE 1
+BAD :flushed:
+GOOD 😳
+
+COMPLETE 1
+CASE 1
+BAD :herb:
+GOOD 🌿
+
+COMPLETE 1
+CASE 1
+BAD :older_man:
+GOOD 👴
+
+COMPLETE 1
+CASE 1
+BAD :earth_asia:
+GOOD 🌏
+
+COMPLETE 1
+CASE 1
+BAD :custard:
+GOOD 🍮
+
+COMPLETE 1
+CASE 1
+BAD :mailbox:
+GOOD 📫
+
+COMPLETE 1
+CASE 1
+BAD :hotsprings:
+GOOD ♨
+
+COMPLETE 1
+CASE 1
+BAD :ski:
+GOOD 🎿
+
+COMPLETE 1
+CASE 1
+BAD :clock630:
+GOOD 🕡
+
+COMPLETE 1
+CASE 1
+BAD :hospital:
+GOOD 🏥
+
+COMPLETE 1
+CASE 1
+BAD :books:
+GOOD 📚
+
+COMPLETE 1
+CASE 1
+BAD :frowning:
+GOOD 😦
+
+COMPLETE 1
+CASE 1
+BAD :fish_cake:
+GOOD 🍥
+
+COMPLETE 1
+CASE 1
+BAD :sushi:
+GOOD 🍣
+
+COMPLETE 1
+CASE 1
+BAD :couplekiss:
+GOOD 💏
+
+COMPLETE 1
+CASE 1
+BAD :fist:
+GOOD ✊
+
+COMPLETE 1
+CASE 1
+BAD :vs:
+GOOD 🆚
+
+COMPLETE 1
+CASE 1
+BAD :tent:
+GOOD ⛺
+
+COMPLETE 1
+CASE 1
+BAD :loop:
+GOOD ➿
+
+COMPLETE 1
+CASE 1
+BAD :confused:
+GOOD 😕
+
+COMPLETE 1
+CASE 1
+BAD :pill:
+GOOD 💊
+
+COMPLETE 1
+CASE 1
+BAD :sunrise:
+GOOD 🌅
+
+COMPLETE 1
+CASE 1
+BAD :key:
+GOOD 🔑
+
+COMPLETE 1
+CASE 1
+BAD :surfer:
+GOOD 🏄
+
+COMPLETE 1
+CASE 1
+BAD :black_nib:
+GOOD ✒
+
+COMPLETE 1
+CASE 1
+BAD :speak_no_evil:
+GOOD 🙊
+
+COMPLETE 1
+CASE 1
+BAD :ambulance:
+GOOD 🚑
+
+COMPLETE 1
+CASE 1
+BAD :mount_fuji:
+GOOD 🗻
+
+COMPLETE 1
+CASE 1
+BAD :gemini:
+GOOD ♊
+
+COMPLETE 1
+CASE 1
+BAD :accept:
+GOOD 🉑
+
+COMPLETE 1
+CASE 1
+BAD :closed_book:
+GOOD 📕
+
+COMPLETE 1
+CASE 1
+BAD :round_pushpin:
+GOOD 📍
+
+COMPLETE 1
+CASE 1
+BAD :radio_button:
+GOOD 🔘
+
+COMPLETE 1
+CASE 1
+BAD :mag:
+GOOD 🔍
+
+COMPLETE 1
+CASE 1
+BAD :ram:
+GOOD 🐏
+
+COMPLETE 1
+CASE 1
+BAD :space_invader:
+GOOD 👾
+
+COMPLETE 1
+CASE 1
+BAD :sos:
+GOOD 🆘
+
+COMPLETE 1
+CASE 1
+BAD :tada:
+GOOD 🎉
+
+COMPLETE 1
+CASE 1
+BAD :six:
+GOOD 6⃣
+
+COMPLETE 1
+CASE 1
+BAD :hand:
+GOOD ✋
+
+COMPLETE 1
+CASE 1
+BAD :cancer:
+GOOD ♋
+
+COMPLETE 1
+CASE 1
+BAD :oncoming_automobile:
+GOOD 🚘
+
+COMPLETE 1
+CASE 1
+BAD :uk:
+GOOD 🇬🇧
+
+COMPLETE 1
+CASE 1
+BAD :nut_and_bolt:
+GOOD 🔩
+
+COMPLETE 1
+CASE 1
+BAD :restroom:
+GOOD 🚻
+
+COMPLETE 1
+CASE 1
+BAD :clock530:
+GOOD 🕠
+
+COMPLETE 1
+CASE 1
+BAD :blush:
+GOOD 😊
+
+COMPLETE 1
+CASE 1
+BAD :joy_cat:
+GOOD 😹
+
+COMPLETE 1
+CASE 1
+BAD :football:
+GOOD 🏈
+
+COMPLETE 1
+CASE 1
+BAD :two:
+GOOD 2⃣
+
+COMPLETE 1
+CASE 1
+BAD :loudspeaker:
+GOOD 📢
+
+COMPLETE 1
+CASE 1
+BAD :apple:
+GOOD 🍎
+
+COMPLETE 1
+CASE 1
+BAD :low_brightness:
+GOOD 🔅
+
+COMPLETE 1
+CASE 1
+BAD :no_entry:
+GOOD ⛔
+
+COMPLETE 1
+CASE 1
+BAD :sake:
+GOOD 🍶
+
+COMPLETE 1
+CASE 1
+BAD :confetti_ball:
+GOOD 🎊
+
+COMPLETE 1
+CASE 1
+BAD :u5408:
+GOOD 🈴
+
+COMPLETE 1
+CASE 1
+BAD :scissors:
+GOOD ✂
+
+COMPLETE 1
+CASE 1
+BAD :moon:
+GOOD 🌔
+
+COMPLETE 1
+CASE 1
+BAD :b:
+GOOD 🅱
+
+COMPLETE 1
+CASE 1
+BAD :maple_leaf:
+GOOD 🍁
+
+COMPLETE 1
+CASE 1
+BAD :bank:
+GOOD 🏦
+
+COMPLETE 1
+CASE 1
+BAD :busstop:
+GOOD 🚏
+
+COMPLETE 1
+CASE 1
+BAD :stuck_out_tongue:
+GOOD 😛
+
+COMPLETE 1
+CASE 1
+BAD :mouse:
+GOOD 🐭
+
+COMPLETE 1
+CASE 1
+BAD :clapper:
+GOOD 🎬
+
+COMPLETE 1
+CASE 1
+BAD :running_shirt_with_sash:
+GOOD 🎽
+
+COMPLETE 1
+CASE 1
+BAD :gift:
+GOOD 🎁
+
+COMPLETE 1
+CASE 1
+BAD :one:
+GOOD 1⃣
+
+COMPLETE 1
+CASE 1
+BAD :8ball:
+GOOD 🎱
+
+COMPLETE 1
+CASE 1
+BAD :circus_tent:
+GOOD 🎪
+
+COMPLETE 1
+CASE 1
+BAD :ok_woman:
+GOOD 🙆
+
+COMPLETE 1
+CASE 1
+BAD :sweat:
+GOOD 😓
+
+COMPLETE 1
+CASE 1
+BAD :sleepy:
+GOOD 😪
+
+COMPLETE 1
+CASE 1
+BAD :o:
+GOOD ⭕
+
+COMPLETE 1
+CASE 1
+BAD :collision:
+GOOD 💥
+
+COMPLETE 1
+CASE 1
+BAD :heavy_dollar_sign:
+GOOD 💲
+
+COMPLETE 1
+CASE 1
+BAD :kissing_closed_eyes:
+GOOD 😚
+
+COMPLETE 1
+CASE 1
+BAD :dress:
+GOOD 👗
+
+COMPLETE 1
+CASE 1
+BAD :white_large_square:
+GOOD ⬜
+
+COMPLETE 1
+CASE 1
+BAD :whale2:
+GOOD 🐋
+
+COMPLETE 1
+CASE 1
+BAD :bicyclist:
+GOOD 🚴
+
+COMPLETE 1
+CASE 1
+BAD :steam_locomotive:
+GOOD 🚂
+
+COMPLETE 1
+CASE 1
+BAD :baby_chick:
+GOOD 🐤
+
+COMPLETE 1
+CASE 1
+BAD :speedboat:
+GOOD 🚤
+
+COMPLETE 1
+CASE 1
+BAD :lock:
+GOOD 🔒
+
+COMPLETE 1
+CASE 1
+BAD :smile:
+GOOD 😄
+
+COMPLETE 1
+CASE 1
+BAD :orange_book:
+GOOD 📙
+
+COMPLETE 1
+CASE 1
+BAD :bar_chart:
+GOOD 📊
+
+COMPLETE 1
+CASE 1
+BAD :facepunch:
+GOOD 👊
+
+COMPLETE 1
+CASE 1
+BAD :dvd:
+GOOD 📀
+
+COMPLETE 1
+CASE 1
+BAD :cry:
+GOOD 😢
+
+COMPLETE 1
+CASE 1
+BAD :cherries:
+GOOD 🍒
+
+COMPLETE 1
+CASE 1
+BAD :cupid:
+GOOD 💘
+
+COMPLETE 1
+CASE 1
+BAD :fries:
+GOOD 🍟
+
+COMPLETE 1
+CASE 1
+BAD :love_hotel:
+GOOD 🏩
+
+COMPLETE 1
+CASE 1
+BAD :curly_loop:
+GOOD ➰
+
+COMPLETE 1
+CASE 1
+BAD :satisfied:
+GOOD 😆
+
+COMPLETE 1
+CASE 1
+BAD :bathtub:
+GOOD 🛁
+
+COMPLETE 1
+CASE 1
+BAD :walking:
+GOOD 🚶
+
+COMPLETE 1
+CASE 1
+BAD :wedding:
+GOOD 💒
+
+COMPLETE 1
+CASE 1
+BAD :person_frowning:
+GOOD 🙍
+
+COMPLETE 1
+CASE 1
+BAD :beginner:
+GOOD 🔰
+
+COMPLETE 1
+CASE 1
+BAD :four_leaf_clover:
+GOOD 🍀
+
+COMPLETE 1
+CASE 1
+BAD :chicken:
+GOOD 🐔
+
+COMPLETE 1
+CASE 1
+BAD :taurus:
+GOOD ♉
+
+COMPLETE 1
+CASE 1
+BAD :european_post_office:
+GOOD 🏤
+
+COMPLETE 1
+CASE 1
+BAD :musical_note:
+GOOD 🎵
+
+COMPLETE 1
+CASE 1
+BAD :capricorn:
+GOOD ♑
+
+COMPLETE 1
+CASE 1
+BAD :christmas_tree:
+GOOD 🎄
+
+COMPLETE 1
+CASE 1
+BAD :ocean:
+GOOD 🌊
+
+COMPLETE 1
+CASE 1
+BAD :stuck_out_tongue_closed_eyes:
+GOOD 😝
+
+COMPLETE 1
+CASE 1
+BAD :it:
+GOOD 🇮🇹
+
+COMPLETE 1
+CASE 1
+BAD :lollipop:
+GOOD 🍭
+
+COMPLETE 1
+CASE 1
+BAD :older_woman:
+GOOD 👵
+
+COMPLETE 1
+CASE 1
+BAD :baggage_claim:
+GOOD 🛄
+
+COMPLETE 1
+CASE 1
+BAD :pineapple:
+GOOD 🍍
+
+COMPLETE 1
+CASE 1
+BAD :waning_gibbous_moon:
+GOOD 🌖
+
+COMPLETE 1
+CASE 1
+BAD :arrow_right:
+GOOD ➡
+
+COMPLETE 1
+CASE 1
+BAD :ghost:
+GOOD 👻
+
+COMPLETE 1
+CASE 1
+BAD :zzz:
+GOOD 💤
+
+COMPLETE 1
+CASE 1
+BAD :couple:
+GOOD 👫
+
+COMPLETE 1
+CASE 1
+BAD :black_circle:
+GOOD ⚫
+
+COMPLETE 1
+CASE 1
+BAD :seat:
+GOOD 💺
+
+COMPLETE 1
+CASE 1
+BAD :japanese_goblin:
+GOOD 👺
+
+COMPLETE 1
+CASE 1
+BAD :point_up_2:
+GOOD 👆
+
+COMPLETE 1
+CASE 1
+BAD :arrow_right_hook:
+GOOD ↪
+
+COMPLETE 1
+CASE 1
+BAD :bride_with_veil:
+GOOD 👰
+
+COMPLETE 1
+CASE 1
+BAD :repeat_one:
+GOOD 🔂
+
+COMPLETE 1
+CASE 1
+BAD :u55b6:
+GOOD 🈺
+
+COMPLETE 1
+CASE 1
+BAD :wrench:
+GOOD 🔧
+
+COMPLETE 1
+CASE 1
+BAD :grey_question:
+GOOD ❔
+
+COMPLETE 1
+CASE 1
+BAD :incoming_envelope:
+GOOD 📨
+
+COMPLETE 1
+CASE 1
+BAD :small_red_triangle:
+GOOD 🔺
+
+COMPLETE 1
+CASE 1
+BAD :small_orange_diamond:
+GOOD 🔸
+
+COMPLETE 1
+CASE 1
+BAD :ring:
+GOOD 💍
+
+COMPLETE 1
+CASE 1
+BAD :telephone_receiver:
+GOOD 📞
+
+COMPLETE 1
+CASE 1
+BAD :arrow_forward:
+GOOD ▶
+
+COMPLETE 1
+CASE 1
+BAD :post_office:
+GOOD 🏣
+
+COMPLETE 1
+CASE 1
+BAD :bridge_at_night:
+GOOD 🌉
+
+COMPLETE 1
+CASE 1
+BAD :seven:
+GOOD 7⃣
+
+COMPLETE 1
+CASE 1
+BAD :capital_abcd:
+GOOD 🔠
+
+COMPLETE 1
+CASE 1
+BAD :railway_car:
+GOOD 🚃
+
+COMPLETE 1
+CASE 1
+BAD :lock_with_ink_pen:
+GOOD 🔏
+
+COMPLETE 1
+CASE 1
+BAD :candy:
+GOOD 🍬
+
+COMPLETE 1
+CASE 1
+BAD :pensive:
+GOOD 😔
+
+COMPLETE 1
+CASE 1
+BAD :persevere:
+GOOD 😣
+
+COMPLETE 1
+CASE 1
+BAD :outbox_tray:
+GOOD 📤
+
+COMPLETE 1
+CASE 1
+BAD :cow2:
+GOOD 🐄
+
+COMPLETE 1
+CASE 1
+BAD :relieved:
+GOOD 😌
+
+COMPLETE 1
+CASE 1
+BAD :sailboat:
+GOOD ⛵
+
+COMPLETE 1
+CASE 1
+BAD :straight_ruler:
+GOOD 📏
+
+COMPLETE 1
+CASE 1
+BAD :wink:
+GOOD 😉
+
+COMPLETE 1
+CASE 1
+BAD :mailbox_closed:
+GOOD 📪
+
+COMPLETE 1
+CASE 1
+BAD :clap:
+GOOD 👏
+
+COMPLETE 1
+CASE 1
+BAD :envelope:
+GOOD ✉
+
+COMPLETE 1
+CASE 1
+BAD :camera:
+GOOD 📷
+
+COMPLETE 1
+CASE 1
+BAD :postal_horn:
+GOOD 📯
+
+COMPLETE 1
+CASE 1
+BAD :anger:
+GOOD 💢
+
+COMPLETE 1
+CASE 1
+BAD :worried:
+GOOD 😟
+
+COMPLETE 1
+CASE 1
+BAD :thumbsup:
+GOOD 👍
+
+COMPLETE 1
+CASE 1
+BAD :+1:
+GOOD 👍
+
+COMPLETE 1
+CASE 1
+BAD :clock930:
+GOOD 🕤
+
+COMPLETE 1
+CASE 1
+BAD :white_check_mark:
+GOOD ✅
+
+COMPLETE 1
+CASE 1
+BAD :cat:
+GOOD 🐱
+
+COMPLETE 1
+CASE 1
+BAD :checkered_flag:
+GOOD 🏁
+
+COMPLETE 1
+CASE 1
+BAD :clipboard:
+GOOD 📋
+
+COMPLETE 1
+CASE 1
+BAD :taxi:
+GOOD 🚕
+
+COMPLETE 1
+CASE 1
+BAD :purse:
+GOOD 👛
+
+COMPLETE 1
+CASE 1
+BAD :shit:
+GOOD 💩
+
+COMPLETE 1
+CASE 1
+BAD :sagittarius:
+GOOD ♐
+
+COMPLETE 1
+CASE 1
+BAD :microphone:
+GOOD 🎤
+
+COMPLETE 1
+CASE 1
+BAD :mahjong:
+GOOD 🀄
+
+COMPLETE 1
+CASE 1
+BAD :birthday:
+GOOD 🎂
+
+COMPLETE 1
+CASE 1
+BAD :crystal_ball:
+GOOD 🔮
+
+COMPLETE 1
+CASE 1
+BAD :fireworks:
+GOOD 🎆
+
+COMPLETE 1
+CASE 1
+BAD :earth_africa:
+GOOD 🌍
+
+COMPLETE 1
+CASE 1
+BAD :arrows_clockwise:
+GOOD 🔃
+
+COMPLETE 1
+CASE 1
+BAD :tanabata_tree:
+GOOD 🎋
+
+COMPLETE 1
+CASE 1
+BAD :bento:
+GOOD 🍱
+
+COMPLETE 1
+CASE 1
+BAD :smirk_cat:
+GOOD 😼
+
+COMPLETE 1
+CASE 1
+BAD :oden:
+GOOD 🍢
+
+COMPLETE 1
+CASE 1
+BAD :oncoming_bus:
+GOOD 🚍
+
+COMPLETE 1
+CASE 1
+BAD :department_store:
+GOOD 🏬
+
+COMPLETE 1
+CASE 1
+BAD :nail_care:
+GOOD 💅
+
+COMPLETE 1
+CASE 1
+BAD :wind_chime:
+GOOD 🎐
+
+COMPLETE 1
+CASE 1
+BAD :tractor:
+GOOD 🚜
+
+COMPLETE 1
+CASE 1
+BAD :page_facing_up:
+GOOD 📄
+
+COMPLETE 1
+CASE 1
+BAD :basketball:
+GOOD 🏀
+
+COMPLETE 1
+CASE 1
+BAD :hibiscus:
+GOOD 🌺
+
+COMPLETE 1
+CASE 1
+BAD :waning_crescent_moon:
+GOOD 🌘
+
+COMPLETE 1
+CASE 1
+BAD :rabbit:
+GOOD 🐰
+
+COMPLETE 1
+CASE 1
+BAD :musical_keyboard:
+GOOD 🎹
+
+COMPLETE 1
+CASE 1
+BAD :abc:
+GOOD 🔤
+
+COMPLETE 1
+CASE 1
+BAD :pencil2:
+GOOD ✏
+
+COMPLETE 1
+CASE 1
+BAD :cyclone:
+GOOD 🌀
+
+COMPLETE 1
+CASE 1
+BAD :ribbon:
+GOOD 🎀
+
+COMPLETE 1
+CASE 1
+BAD :mega:
+GOOD 📣
+
+COMPLETE 1
+CASE 1
+BAD :person_with_pouting_face:
+GOOD 🙎
+
+COMPLETE 1
+CASE 1
+BAD :pager:
+GOOD 📟
+
+COMPLETE 1
+CASE 1
+BAD :seedling:
+GOOD 🌱
+
+COMPLETE 1
+CASE 1
+BAD :tropical_fish:
+GOOD 🐠
+
+COMPLETE 1
+CASE 1
+BAD :fountain:
+GOOD ⛲
+
+COMPLETE 1
+CASE 1
+BAD :curry:
+GOOD 🍛
+
+COMPLETE 1
+CASE 1
+BAD :rat:
+GOOD 🐀
+
+COMPLETE 1
+CASE 1
+BAD :flashlight:
+GOOD 🔦
+
+COMPLETE 1
+CASE 1
+BAD :hotel:
+GOOD 🏨
+
+COMPLETE 1
+CASE 1
+BAD :love_letter:
+GOOD 💌
+
+COMPLETE 1
+CASE 1
+BAD :kr:
+GOOD 🇰🇷
+
+COMPLETE 1
+CASE 1
+BAD :saxophone:
+GOOD 🎷
+
+COMPLETE 1
+CASE 1
+BAD :sweat_drops:
+GOOD 💦
+
+COMPLETE 1
+CASE 1
+BAD :arrow_down_small:
+GOOD 🔽
+
+COMPLETE 1
+CASE 1
+BAD :globe_with_meridians:
+GOOD 🌐
+
+COMPLETE 1
+CASE 1
+BAD :evergreen_tree:
+GOOD 🌲
+
+COMPLETE 1
+CASE 1
+BAD :pushpin:
+GOOD 📌
+
+COMPLETE 1
+CASE 1
+BAD :point_up:
+GOOD ☝
+
+COMPLETE 1
+CASE 1
+BAD :dolls:
+GOOD 🎎
+
+COMPLETE 1
+CASE 1
+BAD :rabbit2:
+GOOD 🐇
+
+COMPLETE 1
+CASE 1
+BAD :cd:
+GOOD 💿
+
+COMPLETE 1
+CASE 1
+BAD :smiley:
+GOOD 😃
+
+COMPLETE 1
+CASE 1
+BAD :sound:
+GOOD 🔉
+
+COMPLETE 1
+CASE 1
+BAD :sheep:
+GOOD 🐑
+
+COMPLETE 1
+CASE 1
+BAD :file_folder:
+GOOD 📁
+
+COMPLETE 1
+CASE 1
+BAD :put_litter_in_its_place:
+GOOD 🚮
+
+COMPLETE 1
+CASE 1
+BAD :arrow_lower_left:
+GOOD ↙
+
+COMPLETE 1
+CASE 1
+BAD :waxing_crescent_moon:
+GOOD 🌒
+
+COMPLETE 1
+CASE 1
+BAD :cookie:
+GOOD 🍪
+
+COMPLETE 1
+CASE 1
+BAD :dash:
+GOOD 💨
+
+COMPLETE 1
+CASE 1
+BAD :clock1030:
+GOOD 🕥
+
+COMPLETE 1
+CASE 1
+BAD :dollar:
+GOOD 💵
+
+COMPLETE 1
+CASE 1
+BAD :truck:
+GOOD 🚚
+
+COMPLETE 1
+CASE 1
+BAD :clubs:
+GOOD ♣
+
+COMPLETE 1
+CASE 1
+BAD :clock1130:
+GOOD 🕦
+
+COMPLETE 1
+CASE 1
+BAD :bullettrain_side:
+GOOD 🚄
+
+COMPLETE 1
+CASE 1
+BAD :ox:
+GOOD 🐂
+
+COMPLETE 1
+CASE 1
+BAD :aerial_tramway:
+GOOD 🚡
+
+COMPLETE 1
+CASE 1
+BAD :dragon:
+GOOD 🐉
+
+COMPLETE 1
+CASE 1
+BAD :trolleybus:
+GOOD 🚎
+
+COMPLETE 1
+CASE 1
+BAD :beers:
+GOOD 🍻
+
+COMPLETE 1
+CASE 1
+BAD :cn:
+GOOD 🇨🇳
+
+COMPLETE 1
+CASE 1
+BAD :recycle:
+GOOD ♻
+
+COMPLETE 1
+CASE 1
+BAD :strawberry:
+GOOD 🍓
+
+COMPLETE 1
+CASE 1
+BAD :back:
+GOOD 🔙
+
+COMPLETE 1
+CASE 1
+BAD :cactus:
+GOOD 🌵
+
+COMPLETE 1
+CASE 1
+BAD :grapes:
+GOOD 🍇
+
+COMPLETE 1
+CASE 1
+BAD :heavy_exclamation_mark:
+GOOD ❗
+
+COMPLETE 1
+CASE 1
+BAD :u6e80:
+GOOD 🈵
+
+COMPLETE 1
+CASE 1
+BAD :arrow_upper_left:
+GOOD ↖
+
+COMPLETE 1
+CASE 1
+BAD :clock8:
+GOOD 🕗
+
+COMPLETE 1
+CASE 1
+BAD :tiger2:
+GOOD 🐅
+
+COMPLETE 1
+CASE 1
+BAD :fork_and_knife:
+GOOD 🍴
+
+COMPLETE 1
+CASE 1
+BAD :office:
+GOOD 🏢
+
+COMPLETE 1
+CASE 1
+BAD :clock230:
+GOOD 🕝
+
+COMPLETE 1
+CASE 1
+BAD :punch:
+GOOD 👊
+
+COMPLETE 1
+CASE 1
+BAD :wine_glass:
+GOOD 🍷
+
+COMPLETE 1
+CASE 1
+BAD :bikini:
+GOOD 👙
+
+COMPLETE 1
+CASE 1
+BAD :email:
+GOOD ✉
+
+COMPLETE 1
+CASE 1
+BAD :paperclip:
+GOOD 📎
+
+COMPLETE 1
+CASE 1
+BAD :koala:
+GOOD 🐨
+
+COMPLETE 1
+CASE 1
+BAD :clock1:
+GOOD 🕐
+
+COMPLETE 1
+CASE 1
+BAD :police_car:
+GOOD 🚓
+
+COMPLETE 1
+CASE 1
+BAD :mouse2:
+GOOD 🐁
+
+COMPLETE 1
+CASE 1
+BAD :inbox_tray:
+GOOD 📥
+
+COMPLETE 1
+CASE 1
+BAD :dromedary_camel:
+GOOD 🐪
+
+COMPLETE 1
+CASE 1
+BAD :expressionless:
+GOOD 😑
+
+COMPLETE 1
+CASE 1
+BAD :baby_symbol:
+GOOD 🚼
+
+COMPLETE 1
+CASE 1
+BAD :warning:
+GOOD ⚠
+
+COMPLETE 1
+CASE 1
+BAD :doughnut:
+GOOD 🍩
+
+COMPLETE 1
+CASE 1
+BAD :rice:
+GOOD 🍚
+
+COMPLETE 1
+CASE 1
+BAD :on:
+GOOD 🔛
+
+COMPLETE 1
+CASE 1
+BAD :eyeglasses:
+GOOD 👓
+
+COMPLETE 1
+CASE 1
+BAD :honey_pot:
+GOOD 🍯
+
+COMPLETE 1
+CASE 1
+BAD :hushed:
+GOOD 😯
+
+COMPLETE 1
+CASE 1
+BAD :bike:
+GOOD 🚲
+
+COMPLETE 1
+CASE 1
+BAD :bath:
+GOOD 🛀
+
+COMPLETE 1
+CASE 1
+BAD :cop:
+GOOD 👮
+
+COMPLETE 1
+CASE 1
+BAD :sleeping:
+GOOD 😴
+
+COMPLETE 1
+CASE 1
+BAD :arrow_up_small:
+GOOD 🔼
+
+COMPLETE 1
+CASE 1
+BAD :smiley_cat:
+GOOD 😺
+
+COMPLETE 1
+CASE 1
+BAD :cow:
+GOOD 🐮
+
+COMPLETE 1
+CASE 1
+BAD :floppy_disk:
+GOOD 💾
+
+COMPLETE 1
+CASE 1
+BAD :sunglasses:
+GOOD 😎
+
+COMPLETE 1
+CASE 1
+BAD :gift_heart:
+GOOD 💝
+
+COMPLETE 1
+CASE 1
+BAD :confounded:
+GOOD 😖
+
+COMPLETE 1
+CASE 1
+BAD :corn:
+GOOD 🌽
+
+COMPLETE 1
+CASE 1
+BAD :soon:
+GOOD 🔜
+
+COMPLETE 1
+CASE 1
+BAD :yen:
+GOOD 💴
+
+COMPLETE 1
+CASE 1
+BAD :shaved_ice:
+GOOD 🍧
+
+COMPLETE 1
+CASE 1
+BAD :sa:
+GOOD 🈂
+
+COMPLETE 1
+CASE 1
+BAD :racehorse:
+GOOD 🐎
+
+COMPLETE 1
+CASE 1
+BAD :dog:
+GOOD 🐶
+
+COMPLETE 1
+CASE 1
+BAD :fish:
+GOOD 🐟
+
+COMPLETE 1
+CASE 1
+BAD :barber:
+GOOD 💈
+
+COMPLETE 1
+CASE 1
+BAD :clock430:
+GOOD 🕟
+
+COMPLETE 1
+CASE 1
+BAD :white_circle:
+GOOD ⚪
+
+COMPLETE 1
+CASE 1
+BAD :jp:
+GOOD 🇯🇵
+
+COMPLETE 1
+CASE 1
+BAD :eyes:
+GOOD 👀
+
+COMPLETE 1
+CASE 1
+BAD :part_alternation_mark:
+GOOD 〽
+
+COMPLETE 1
+CASE 1
+BAD :clock330:
+GOOD 🕞
+
+COMPLETE 1
+CASE 1
+BAD :arrow_upper_right:
+GOOD ↗
+
+COMPLETE 1
+CASE 1
+BAD :open_hands:
+GOOD 👐
+
+COMPLETE 1
+CASE 1
+BAD :u7981:
+GOOD 🈲
+
+COMPLETE 1
+CASE 1
+BAD :arrow_up:
+GOOD ⬆
+
+COMPLETE 1
+CASE 1
+BAD :car:
+GOOD 🚗
+
+COMPLETE 1
+CASE 1
+BAD :customs:
+GOOD 🛃
+
+COMPLETE 1
+CASE 1
+BAD :goat:
+GOOD 🐐
+
+COMPLETE 1
+CASE 1
+BAD :satellite:
+GOOD 📡
+
+COMPLETE 1
+CASE 1
+BAD :european_castle:
+GOOD 🏰
+
+COMPLETE 1
+CASE 1
+BAD :tokyo_tower:
+GOOD 🗼
+
+COMPLETE 1
+CASE 1
+BAD :hammer:
+GOOD 🔨
+
+COMPLETE 1
+CASE 1
+BAD :arrow_left:
+GOOD ⬅
+
+COMPLETE 1
+CASE 1
+BAD :rooster:
+GOOD 🐓
+
+COMPLETE 1
+CASE 1
+BAD :two_men_holding_hands:
+GOOD 👬
+
+COMPLETE 1
+CASE 1
+BAD :eggplant:
+GOOD 🍆
+
+COMPLETE 1
+CASE 1
+BAD :gb:
+GOOD 🇬🇧
+
+COMPLETE 1
+CASE 1
+BAD :traffic_light:
+GOOD 🚥
+
+COMPLETE 1
+CASE 1
+BAD :copyright:
+GOOD ©
+
+COMPLETE 1
+CASE 1
+BAD :scream_cat:
+GOOD 🙀
+
+COMPLETE 1
+CASE 1
+BAD :rugby_football:
+GOOD 🏉
+
+COMPLETE 1
+CASE 1
+BAD :izakaya_lantern:
+GOOD 🏮
+
+COMPLETE 1
+CASE 1
+BAD :kissing_smiling_eyes:
+GOOD 😙
+
+COMPLETE 1
+CASE 1
+BAD :high_heel:
+GOOD 👠
+
+COMPLETE 1
+CASE 1
+BAD :four:
+GOOD 4⃣
+
+COMPLETE 1
+CASE 1
+BAD :postbox:
+GOOD 📮
+
+COMPLETE 1
+CASE 1
+BAD :astonished:
+GOOD 😲
+
+COMPLETE 1
+CASE 1
+BAD :jeans:
+GOOD 👖
+
+COMPLETE 1
+CASE 1
+BAD :stuck_out_tongue_winking_eye:
+GOOD 😜
+
+COMPLETE 1
+CASE 1
+BAD :point_left:
+GOOD 👈
+
+COMPLETE 1
+CASE 1
+BAD :handbag:
+GOOD 👜
+
+COMPLETE 1
+CASE 1
+BAD :school:
+GOOD 🏫
+
+COMPLETE 1
+CASE 1
+BAD :busts_in_silhouette:
+GOOD 👥
+
+COMPLETE 1
+CASE 1
+BAD :full_moon_with_face:
+GOOD 🌝
+
+COMPLETE 1
+CASE 1
+BAD :large_blue_circle:
+GOOD 🔵
+
+COMPLETE 1
+CASE 1
+BAD :notebook:
+GOOD 📓
+
+COMPLETE 1
+CASE 1
+BAD :bell:
+GOOD 🔔
+
+COMPLETE 1
+CASE 1
+BAD :id:
+GOOD 🆔
+
+COMPLETE 1
+CASE 1
+BAD :crossed_flags:
+GOOD 🎌
+
+COMPLETE 1
+CASE 1
+BAD :children_crossing:
+GOOD 🚸
+
+COMPLETE 1
+CASE 1
+BAD :pig:
+GOOD 🐷
+
+COMPLETE 1
+CASE 1
+BAD :unamused:
+GOOD 😒
+
+COMPLETE 1
+CASE 1
+BAD :baseball:
+GOOD ⚾
+
+COMPLETE 1
+CASE 1
+BAD :new_moon_with_face:
+GOOD 🌚
+
+COMPLETE 1
+CASE 1
+BAD :watch:
+GOOD ⌚
+
+COMPLETE 1
+CASE 1
+BAD :mask:
+GOOD 😷
+
+COMPLETE 1
+CASE 1
+BAD :slot_machine:
+GOOD 🎰
+
+COMPLETE 1
+CASE 1
+BAD :fuelpump:
+GOOD ⛽
+
+COMPLETE 1
+CASE 1
+BAD :rice_scene:
+GOOD 🎑
+
+COMPLETE 1
+CASE 1
+BAD :toilet:
+GOOD 🚽
+
+COMPLETE 1
+CASE 1
+BAD :hearts:
+GOOD ♥
+
+COMPLETE 1
+CASE 1
+BAD :black_joker:
+GOOD 🃏
+
+COMPLETE 1
+CASE 1
+BAD :hamster:
+GOOD 🐹
+
+COMPLETE 1
+CASE 1
+BAD :six_pointed_star:
+GOOD 🔯
+
+COMPLETE 1
+CASE 1
+BAD :clock9:
+GOOD 🕘
+
+COMPLETE 1
+CASE 1
+BAD :heart_eyes:
+GOOD 😍
+
+COMPLETE 1
+CASE 1
+BAD :rowboat:
+GOOD 🚣
+
+COMPLETE 1
+CASE 1
+BAD :mobile_phone_off:
+GOOD 📴
+
+COMPLETE 1
+CASE 1
+BAD :envelope_with_arrow:
+GOOD 📩
+
+COMPLETE 1
+CASE 1
+BAD :tiger:
+GOOD 🐯
+
+COMPLETE 1
+CASE 1
+BAD :revolving_hearts:
+GOOD 💞
+
+COMPLETE 1
+CASE 1
+BAD :first_quarter_moon:
+GOOD 🌓
+
+COMPLETE 1
+CASE 1
+BAD :ferris_wheel:
+GOOD 🎡
+
+COMPLETE 1
+CASE 1
+BAD :man_with_gua_pi_mao:
+GOOD 👲
+
+COMPLETE 1
+CASE 1
+BAD :u7121:
+GOOD 🈚
+
+COMPLETE 1
+CASE 1
+BAD :pouch:
+GOOD 👝
+
+COMPLETE 1
+CASE 1
+BAD :ear_of_rice:
+GOOD 🌾
+
+COMPLETE 1
+CASE 1
+BAD :crocodile:
+GOOD 🐊
+
+COMPLETE 1
+CASE 1
+BAD :articulated_lorry:
+GOOD 🚛
+
+COMPLETE 1
+CASE 1
+BAD :hankey:
+GOOD 💩
+
+COMPLETE 1
+CASE 1
+BAD :coffee:
+GOOD ☕
+
+COMPLETE 1
+CASE 1
+BAD :briefcase:
+GOOD 💼
+
+COMPLETE 1
+CASE 1
+BAD :clock2:
+GOOD 🕑
+
+COMPLETE 1
+CASE 1
+BAD :koko:
+GOOD 🈁
+
+COMPLETE 1
+CASE 1
+BAD :tongue:
+GOOD 👅
+
+COMPLETE 1
+CASE 1
+BAD :keycap_ten:
+GOOD 🔟
+
+COMPLETE 1
+CASE 1
+BAD :running:
+GOOD 🏃
+
+COMPLETE 1
+CASE 1
+BAD :left_luggage:
+GOOD 🛅
+
+COMPLETE 1
+CASE 1
+BAD :dango:
+GOOD 🍡
+
+COMPLETE 1
+CASE 1
+BAD :metro:
+GOOD 🚇
+
+COMPLETE 1
+CASE 1
+BAD :tangerine:
+GOOD 🍊
+
+COMPLETE 1
+CASE 1
+BAD :heart_decoration:
+GOOD 💟
+
+COMPLETE 1
+CASE 1
+BAD :flags:
+GOOD 🎏
+
+COMPLETE 1
+CASE 1
+BAD :open_file_folder:
+GOOD 📂
+
+COMPLETE 1
+CASE 1
+BAD :black_small_square:
+GOOD ▪
+
+COMPLETE 1
+CASE 1
+BAD :open_mouth:
+GOOD 😮
+
+COMPLETE 1
+CASE 1
+BAD :couple_with_heart:
+GOOD 💑
+
+COMPLETE 1
+CASE 1
+BAD :rice_ball:
+GOOD 🍙
+
+COMPLETE 1
+CASE 1
+BAD :lantern:
+GOOD 🏮
+
+COMPLETE 1
+CASE 1
+BAD :small_blue_diamond:
+GOOD 🔹
+
+COMPLETE 1
+CASE 1
+BAD :cloud:
+GOOD ☁
+
+COMPLETE 1
+CASE 1
+BAD :calendar:
+GOOD 📆
+
+COMPLETE 1
+CASE 1
+BAD :sparkling_heart:
+GOOD 💖
+
+COMPLETE 1
+CASE 1
+BAD :end:
+GOOD 🔚
+
+COMPLETE 1
+CASE 1
+BAD :boom:
+GOOD 💥
+
+COMPLETE 1
+CASE 1
+BAD :point_right:
+GOOD 👉
+
+COMPLETE 1
+CASE 1
+BAD :sunny:
+GOOD ☀
+
+COMPLETE 1
+CASE 1
+BAD :small_red_triangle_down:
+GOOD 🔻
+
+COMPLETE 1
+CASE 1
+BAD :interrobang:
+GOOD ⁉
+
+COMPLETE 1
+CASE 1
+BAD :blossom:
+GOOD 🌼
+
+COMPLETE 1
+CASE 1
+BAD :black_large_square:
+GOOD ⬛
+
+COMPLETE 1
+CASE 1
+BAD :no_mobile_phones:
+GOOD 📵
+
+COMPLETE 1
+CASE 1
+BAD :tomato:
+GOOD 🍅
+
+COMPLETE 1
+CASE 1
+BAD :name_badge:
+GOOD 📛
+
+COMPLETE 1
+CASE 1
+BAD :package:
+GOOD 📦
+
+COMPLETE 1
+CASE 1
+BAD :arrow_double_down:
+GOOD ⏬
+
+COMPLETE 1
+CASE 1
+BAD :horse:
+GOOD 🐴
+
+COMPLETE 1
+CASE 1
+BAD :tm:
+GOOD ™
+
+COMPLETE 1
+CASE 1
+BAD :musical_score:
+GOOD 🎼
+
+COMPLETE 1
+CASE 1
+BAD :point_down:
+GOOD 👇
+
+COMPLETE 1
+CASE 1
+BAD :helicopter:
+GOOD 🚁
+
+COMPLETE 1
+CASE 1
+BAD :nose:
+GOOD 👃
+
+COMPLETE 1
+CASE 1
+BAD :speech_balloon:
+GOOD 💬
+
+COMPLETE 1
+CASE 1
+BAD :diamonds:
+GOOD ♦
+
+COMPLETE 1
+CASE 1
+BAD :water_buffalo:
+GOOD 🐃
+
+COMPLETE 1
+CASE 1
+BAD :sparkler:
+GOOD 🎇
+
+COMPLETE 1
+CASE 1
+BAD :grinning:
+GOOD 😀
+
+COMPLETE 1
+CASE 1
+BAD :negative_squared_cross_mark:
+GOOD ❎
+
+COMPLETE 1
+CASE 1
+BAD :memo:
+GOOD 📝
+
+COMPLETE 1
+CASE 1
+BAD :mountain_cableway:
+GOOD 🚠
+
+COMPLETE 1
+CASE 1
+BAD :moyai:
+GOOD 🗿
+
+COMPLETE 1
+CASE 1
+BAD :wolf:
+GOOD 🐺
+
+COMPLETE 1
+CASE 1
+BAD :a:
+GOOD 🅰
+
+COMPLETE 1
+CASE 1
+BAD :rice_cracker:
+GOOD 🍘
+
+COMPLETE 1
+CASE 1
+BAD :baby_bottle:
+GOOD 🍼
+
+COMPLETE 1
+CASE 1
+BAD :sweet_potato:
+GOOD 🍠
+
+COMPLETE 1
+CASE 1
+BAD :eight_spoked_asterisk:
+GOOD ✳
+
+COMPLETE 1
+CASE 1
+BAD :ophiuchus:
+GOOD ⛎
+
+COMPLETE 1
+CASE 1
+BAD :mag_right:
+GOOD 🔎
+
+COMPLETE 1
+CASE 1
+BAD :snowflake:
+GOOD ❄
+
+COMPLETE 1
+CASE 1
+BAD :registered:
+GOOD ®
+
+COMPLETE 1
+CASE 1
+BAD :x:
+GOOD ❌
+
+COMPLETE 1
+CASE 1
+BAD :fax:
+GOOD 📠
+
+COMPLETE 1
+CASE 1
+BAD :-1:
+GOOD 👎
+
+COMPLETE 1
+CASE 1
+BAD :tulip:
+GOOD 🌷
+
+COMPLETE 1
+CASE 1
+BAD :mans_shoe:
+GOOD 👞
+
+COMPLETE 1
+CASE 1
+BAD :foggy:
+GOOD 🌁
+
+COMPLETE 1
+CASE 1
+BAD :bread:
+GOOD 🍞
+
+COMPLETE 1
+CASE 1
+BAD :notes:
+GOOD 🎶
+
+COMPLETE 1
+CASE 1
+BAD :bow:
+GOOD 🙇
+
+COMPLETE 1
+CASE 1
+BAD :waxing_gibbous_moon:
+GOOD 🌔
+
+COMPLETE 1
+CASE 1
+BAD :1234:
+GOOD 🔢
+
+COMPLETE 1
+CASE 1
+BAD :date:
+GOOD 📅
+
+COMPLETE 1
+CASE 1
+BAD :tropical_drink:
+GOOD 🍹
+
+COMPLETE 1
+CASE 1
+BAD :up:
+GOOD 🆙
+
+COMPLETE 1
+CASE 1
+BAD :hourglass:
+GOOD ⌛
+
+COMPLETE 1
+CASE 1
+BAD :heavy_check_mark:
+GOOD ✔
+
+COMPLETE 1
+CASE 1
+BAD :u6708:
+GOOD 🈷
+
+COMPLETE 1
+CASE 1
+BAD :electric_plug:
+GOOD 🔌
+
+COMPLETE 1
+CASE 1
+BAD :convenience_store:
+GOOD 🏪
+
+COMPLETE 1
+CASE 1
+BAD :flipper:
+GOOD 🐬
+
+COMPLETE 1
+CASE 1
+BAD :star:
+GOOD ⭐
+
+COMPLETE 1
+CASE 1
+BAD :top:
+GOOD 🔝
+
+COMPLETE 1
+CASE 1
+BAD :construction:
+GOOD 🚧
+
+COMPLETE 1
+CASE 1
+BAD :bee:
+GOOD 🐝
+
+COMPLETE 1
+CASE 1
+BAD :ideograph_advantage:
+GOOD 🉐
+
+COMPLETE 1
+CASE 1
+BAD :spaghetti:
+GOOD 🍝
+
+COMPLETE 1
+CASE 1
+BAD :no_entry_sign:
+GOOD 🚫
+
+COMPLETE 1
+CASE 1
+BAD :scroll:
+GOOD 📜
+
+COMPLETE 1
+CASE 1
+BAD :sunrise_over_mountains:
+GOOD 🌄
+
+COMPLETE 1
+CASE 1
+BAD :free:
+GOOD 🆓
+
+COMPLETE 1
+CASE 1
+BAD :white_flower:
+GOOD 💮
+
+COMPLETE 1
+CASE 1
+BAD :dancer:
+GOOD 💃
+
+COMPLETE 1
+CASE 1
+BAD :innocent:
+GOOD 😇
+
+COMPLETE 1
+CASE 1
+BAD :yellow_heart:
+GOOD 💛
+
+COMPLETE 1
+CASE 1
+BAD :heavy_multiplication_x:
+GOOD ✖
+
+COMPLETE 1
+CASE 1
+BAD :link:
+GOOD 🔗
+
+COMPLETE 1
+CASE 1
+BAD :tshirt:
+GOOD 👕
+
+COMPLETE 1
+CASE 1
+BAD :do_not_litter:
+GOOD 🚯
+
+COMPLETE 1
+CASE 1
+BAD :money_with_wings:
+GOOD 💸
+
+COMPLETE 1
+CASE 1
+BAD :smile_cat:
+GOOD 😸
+
+COMPLETE 1
+CASE 1
+BAD :100:
+GOOD 💯
+
+COMPLETE 1
+CASE 1
+BAD :cl:
+GOOD 🆑
+
+COMPLETE 1
+CASE 1
+BAD :potable_water:
+GOOD 🚰
+
+COMPLETE 1
+CASE 1
+BAD :athletic_shoe:
+GOOD 👟
+
+COMPLETE 1
+CASE 1
+BAD :u7a7a:
+GOOD 🈳
+
+COMPLETE 1
+CASE 1
+BAD :balloon:
+GOOD 🎈
+
+COMPLETE 1
+CASE 1
+BAD :melon:
+GOOD 🍈
+
+COMPLETE 1
+CASE 1
+BAD :pizza:
+GOOD 🍕
+
+COMPLETE 1
+CASE 1
+BAD :new_moon:
+GOOD 🌑
+
+COMPLETE 1
+CASE 1
+BAD :womans_hat:
+GOOD 👒
+
+COMPLETE 1
+CASE 1
+BAD :icecream:
+GOOD 🍦
+
+COMPLETE 1
+CASE 1
+BAD :skull:
+GOOD 💀
+
+COMPLETE 1
+CASE 1
+BAD :heavy_division_sign:
+GOOD ➗
+
+COMPLETE 1
+CASE 1
+BAD :tv:
+GOOD 📺
+
+COMPLETE 1
+CASE 1
+BAD :fire:
+GOOD 🔥
+
+COMPLETE 1
+CASE 1
+BAD :snake:
+GOOD 🐍
+
+COMPLETE 1
+CASE 1
+BAD :bookmark_tabs:
+GOOD 📑
+
+COMPLETE 1
+CASE 1
+BAD :syringe:
+GOOD 💉
+
+COMPLETE 1
+CASE 1
+BAD :cold_sweat:
+GOOD 😰
+
+COMPLETE 1
+CASE 1
+BAD :leopard:
+GOOD 🐆
+
+COMPLETE 1
+CASE 1
+BAD :ok:
+GOOD 🆗
+
+COMPLETE 1
+CASE 1
+BAD :bowling:
+GOOD 🎳
+
+COMPLETE 1
+CASE 1
+BAD :tram:
+GOOD 🚊
+
+COMPLETE 1
+CASE 1
+BAD :elephant:
+GOOD 🐘
+
+COMPLETE 1
+CASE 1
+BAD :angry:
+GOOD 😠
+
+COMPLETE 1
+CASE 1
+BAD :chocolate_bar:
+GOOD 🍫
+
+COMPLETE 1
+CASE 1
+BAD :rose:
+GOOD 🌹
+
+COMPLETE 1
+CASE 1
+BAD :scorpius:
+GOOD ♏
+
+COMPLETE 1
+CASE 1
+BAD :clock3:
+GOOD 🕒
+
+COMPLETE 1
+CASE 1
+BAD :bamboo:
+GOOD 🎍
+
+COMPLETE 1
+CASE 1
+BAD :chestnut:
+GOOD 🌰
+
+COMPLETE 1
+CASE 1
+BAD :game_die:
+GOOD 🎲
+
+COMPLETE 1
+CASE 1
+BAD :white_square_button:
+GOOD 🔳
+
+COMPLETE 1
+CASE 1
+BAD :anchor:
+GOOD ⚓
+
+COMPLETE 1
+CASE 1
+BAD :vertical_traffic_light:
+GOOD 🚦
+
+COMPLETE 1
+CASE 1
+BAD :disappointed_relieved:
+GOOD 😥
+
+COMPLETE 1
+CASE 1
+BAD :grin:
+GOOD 😁
+
+COMPLETE 1
+CASE 1
+BAD :performing_arts:
+GOOD 🎭
+
+COMPLETE 1
+CASE 1
+BAD :house:
+GOOD 🏠
+
+COMPLETE 1
+CASE 1
+BAD :japanese_ogre:
+GOOD 👹
+
+COMPLETE 1
+CASE 1
+BAD :pencil:
+GOOD 📝
+
+COMPLETE 1
+CASE 1
+BAD :battery:
+GOOD 🔋
+
+COMPLETE 1
+CASE 1
+BAD :passport_control:
+GOOD 🛂
+
+COMPLETE 1
+CASE 1
+BAD :monorail:
+GOOD 🚝
+
+COMPLETE 1
+CASE 1
+BAD :door:
+GOOD 🚪
+
+COMPLETE 1
+CASE 1
+BAD :parking:
+GOOD 🅿
+
+COMPLETE 1
+CASE 1
+BAD :trophy:
+GOOD 🏆
+
+COMPLETE 1
+CASE 1
+BAD :video_camera:
+GOOD 📹
+
+COMPLETE 1
+CASE 1
+BAD :guardsman:
+GOOD 💂
+
+COMPLETE 1
+CASE 1
+BAD :umbrella:
+GOOD ☔
+
+COMPLETE 1
+CASE 1
+BAD :red_circle:
+GOOD 🔴
+
+COMPLETE 1
+CASE 1
+BAD :sparkles:
+GOOD ✨
+
+COMPLETE 1
+CASE 1
+BAD :mountain_bicyclist:
+GOOD 🚵
+
+COMPLETE 1
+CASE 1
+BAD :octopus:
+GOOD 🐙
+
+COMPLETE 1
+CASE 1
+BAD :leftwards_arrow_with_hook:
+GOOD ↩
+
+COMPLETE 1
+CASE 1
+BAD :fishing_pole_and_fish:
+GOOD 🎣
+
+COMPLETE 1
+CASE 1
+BAD :chart_with_upwards_trend:
+GOOD 📈
+
+COMPLETE 1
+CASE 1
+BAD :heavy_plus_sign:
+GOOD ➕
+
+COMPLETE 1
+CASE 1
+BAD :euro:
+GOOD 💶
+
+COMPLETE 1
+CASE 1
+BAD :last_quarter_moon_with_face:
+GOOD 🌜
+
+COMPLETE 1
+CASE 1
+BAD :banana:
+GOOD 🍌
+
+COMPLETE 1
+CASE 1
+BAD :book:
+GOOD 📖
+
+COMPLETE 1
+CASE 1
+BAD :clock12:
+GOOD 🕛
+
+COMPLETE 1
+CASE 1
+BAD :violin:
+GOOD 🎻
+
+COMPLETE 1
+CASE 1
+BAD :person_with_blond_hair:
+GOOD 👱
+
+COMPLETE 1
+CASE 1
+BAD :star2:
+GOOD 🌟
+
+COMPLETE 1
+CASE 1
+BAD :muscle:
+GOOD 💪
+
+COMPLETE 1
+CASE 1
+BAD :sob:
+GOOD 😭
+
+COMPLETE 1
+CASE 1
+BAD :soccer:
+GOOD ⚽
+
+COMPLETE 1
+CASE 1
+BAD :grimacing:
+GOOD 😬
+
+COMPLETE 1
+CASE 1
+BAD :smirk:
+GOOD 😏
+
+COMPLETE 1
+CASE 1
+BAD :vibration_mode:
+GOOD 📳
+
+COMPLETE 1
+CASE 1
+BAD :boar:
+GOOD 🐗
+
+COMPLETE 1
+CASE 1
+BAD :kiss:
+GOOD 💋
+
+COMPLETE 1
+CASE 1
+BAD :pouting_cat:
+GOOD 😾
+
+COMPLETE 1
+CASE 1
+BAD :hatching_chick:
+GOOD 🐣
+
+COMPLETE 1
+CASE 1
+BAD :green_heart:
+GOOD 💚
+
+COMPLETE 1
+CASE 1
+BAD :frog:
+GOOD 🐸
+
+COMPLETE 1
+CASE 1
+BAD :bangbang:
+GOOD ‼
+
+COMPLETE 1
+CASE 1
+BAD :ice_cream:
+GOOD 🍨
+
+COMPLETE 1
+CASE 1
+BAD :bookmark:
+GOOD 🔖
+
+COMPLETE 1
+CASE 1
+BAD :blue_book:
+GOOD 📘
+
+COMPLETE 1
+CASE 1
+BAD :tennis:
+GOOD 🎾
+
+COMPLETE 1
+CASE 1
+BAD :crying_cat_face:
+GOOD 😿
+
+COMPLETE 1
+CASE 1
+BAD :massage:
+GOOD 💆
+
+COMPLETE 1
+CASE 1
+BAD :shell:
+GOOD 🐚
+
+COMPLETE 1
+CASE 1
+BAD :headphones:
+GOOD 🎧
+
+COMPLETE 1
+CASE 1
+BAD :wc:
+GOOD 🚾
+
+COMPLETE 1
+CASE 1
+BAD :hamburger:
+GOOD 🍔
+
+COMPLETE 1
+CASE 1
+BAD :green_apple:
+GOOD 🍏
+
+COMPLETE 1
+CASE 1
+BAD :us:
+GOOD 🇺🇸
+
+COMPLETE 1
+CASE 1
+BAD :e-mail:
+GOOD 📧
+
+COMPLETE 1
+CASE 1
+BAD :poop:
+GOOD 💩
+
+COMPLETE 1
+CASE 1
+BAD :pisces:
+GOOD ♓
+
+COMPLETE 1
+CASE 1
+BAD :shirt:
+GOOD 👕
+
+COMPLETE 1
+CASE 1
+BAD :u6709:
+GOOD 🈶
+
+COMPLETE 1
+CASE 1
+BAD :poodle:
+GOOD 🐩
+
+COMPLETE 1
+CASE 1
+BAD :heartbeat:
+GOOD 💓
+
+COMPLETE 1
+CASE 1
+BAD :no_pedestrians:
+GOOD 🚷
+
+COMPLETE 1
+CASE 1
+BAD :runner:
+GOOD 🏃
+
+COMPLETE 1
+CASE 1
+BAD :raised_hands:
+GOOD 🙌
+
+COMPLETE 1
+CASE 1
+BAD :vhs:
+GOOD 📼
+
+COMPLETE 1
+CASE 1
+BAD :wavy_dash:
+GOOD 〰
+
+COMPLETE 1
+CASE 1
+BAD :dolphin:
+GOOD 🐬
+
+COMPLETE 1
+CASE 1
+BAD :dizzy:
+GOOD 💫
+
+COMPLETE 1
+CASE 1
+BAD :information_desk_person:
+GOOD 💁
+
+COMPLETE 1
+CASE 1
+BAD :city_sunset:
+GOOD 🌆
+
+COMPLETE 1
+CASE 1
+BAD :bird:
+GOOD 🐦
+
+COMPLETE 1
+CASE 1
+BAD :snowman:
+GOOD ⛄
+
+COMPLETE 1
+CASE 1
+BAD :fearful:
+GOOD 😨
+
+COMPLETE 1
+CASE 1
+BAD :hear_no_evil:
+GOOD 🙉
+
+COMPLETE 1
+CASE 1
+BAD :bouquet:
+GOOD 💐
+
+COMPLETE 1
+CASE 1
+BAD :currency_exchange:
+GOOD 💱
+
+COMPLETE 1
+CASE 1
+BAD :triumph:
+GOOD 😤
+
+COMPLETE 1
+CASE 1
+BAD :pig2:
+GOOD 🐖
+
+COMPLETE 1
+CASE 1
+BAD :construction_worker:
+GOOD 👷
+
+COMPLETE 1
+CASE 1
+BAD :minidisc:
+GOOD 💽
+
+COMPLETE 1
+CASE 1
+BAD :computer:
+GOOD 💻
+
+COMPLETE 1
+CASE 1
+BAD :tophat:
+GOOD 🎩
+
+COMPLETE 1
+CASE 1
+BAD :house_with_garden:
+GOOD 🏡
+
+COMPLETE 1
+CASE 1
+BAD :heavy_minus_sign:
+GOOD ➖
+
+COMPLETE 1
+CASE 1
+BAD :baby:
+GOOD 👶
+
+COMPLETE 1
+CASE 1
+BAD :wave:
+GOOD 👋
+
+COMPLETE 1
+CASE 1
+BAD :black_square_button:
+GOOD 🔲
+
+COMPLETE 1
+CASE 1
+BAD :dizzy_face:
+GOOD 😵
+
+COMPLETE 1
+CASE 1
+BAD :city_sunrise:
+GOOD 🌇
+
+COMPLETE 1
+CASE 1
+BAD :movie_camera:
+GOOD 🎥
+
+COMPLETE 1
+CASE 1
+BAD :clock130:
+GOOD 🕜
+
+COMPLETE 1
+CASE 1
+BAD :m:
+GOOD Ⓜ
+
+COMPLETE 1
+CASE 1
+BAD :closed_lock_with_key:
+GOOD 🔐
+
+COMPLETE 1
+CASE 1
+BAD :snail:
+GOOD 🐌
+
+COMPLETE 1
+CASE 1
+BAD :clock7:
+GOOD 🕖
+
+COMPLETE 1
+CASE 1
+BAD :beetle:
+GOOD 🐞
+
+COMPLETE 1
+CASE 1
+BAD :station:
+GOOD 🚉
+
+COMPLETE 1
+CASE 1
+BAD :new:
+GOOD 🆕
+
+COMPLETE 1
+CASE 1
+BAD :no_bell:
+GOOD 🔕
+
+COMPLETE 1
+CASE 1
+BAD :fr:
+GOOD 🇫🇷
+
+COMPLETE 1
+CASE 1
+BAD :disappointed:
+GOOD 😞
+
+COMPLETE 1
+CASE 1
+BAD :cocktail:
+GOOD 🍸
+
+COMPLETE 1
+CASE 1
+BAD :lipstick:
+GOOD 💄
+
+COMPLETE 1
+CASE 1
+BAD :stars:
+GOOD 🌠
+
+COMPLETE 1
+CASE 1
+BAD :clock4:
+GOOD 🕓
+
+COMPLETE 1
+CASE 1
+BAD :u5272:
+GOOD 🈹
+
+COMPLETE 1
+CASE 1
+BAD :exclamation:
+GOOD ❗
+
+COMPLETE 1
+CASE 1
+BAD :libra:
+GOOD ♎
+
+COMPLETE 1
+CASE 1
+BAD :meat_on_bone:
+GOOD 🍖
+
+COMPLETE 1
+CASE 1
+BAD :arrow_lower_right:
+GOOD ↘
+
+COMPLETE 1
+CASE 1
+BAD :volcano:
+GOOD 🌋
+
+COMPLETE 1
+CASE 1
+BAD :twisted_rightwards_arrows:
+GOOD 🔀
+
+COMPLETE 1
+CASE 1
+BAD :video_game:
+GOOD 🎮
+
+COMPLETE 1
+CASE 1
+BAD :u7533:
+GOOD 🈸
+
+COMPLETE 1
+CASE 1
+BAD :hatched_chick:
+GOOD 🐥
+
+COMPLETE 1
+CASE 1
+BAD :bug:
+GOOD 🐛
+
+COMPLETE 1
+CASE 1
+BAD :art:
+GOOD 🎨
+
+COMPLETE 1
+CASE 1
+BAD :bomb:
+GOOD 💣
+
+COMPLETE 1
+CASE 1
+BAD :whale:
+GOOD 🐳
+
+COMPLETE 1
+CASE 1
+BAD :full_moon:
+GOOD 🌕
+
+COMPLETE 1
+CASE 1
+BAD :peach:
+GOOD 🍑
+
+COMPLETE 1
+CASE 1
+BAD :purple_heart:
+GOOD 💜
+
+COMPLETE 1
+CASE 1
+BAD :tea:
+GOOD 🍵
+
+COMPLETE 1
+CASE 1
+BAD :loud_sound:
+GOOD 🔊
+
+COMPLETE 1
+CASE 1
+BAD :milky_way:
+GOOD 🌌
+
+COMPLETE 1
+CASE 1
+BAD :white_medium_square:
+GOOD ◻
+
+COMPLETE 1
+CASE 1
+BAD :spades:
+GOOD ♠
+
+COMPLETE 1
+CASE 1
+BAD :lips:
+GOOD 👄
+
+COMPLETE 1
+CASE 1
+BAD :eight_pointed_black_star:
+GOOD ✴
+
+COMPLETE 1
+CASE 1
+BAD :carousel_horse:
+GOOD 🎠
+
+COMPLETE 1
+CASE 1
+BAD :gem:
+GOOD 💎
+
+COMPLETE 1
+CASE 1
+BAD :hocho:
+GOOD 🔪
+
+COMPLETE 1
+CASE 1
+BAD :zap:
+GOOD ⚡
+
+COMPLETE 1
+CASE 1
+BAD :earth_americas:
+GOOD 🌎
+
+COMPLETE 1
+CASE 1
+BAD :mute:
+GOOD 🔇
+
+COMPLETE 1
+CASE 1
+BAD :ship:
+GOOD 🚢
+
+COMPLETE 1
+CASE 1
+BAD :rage:
+GOOD 😡
+
+COMPLETE 1
+CASE 1
+BAD :watermelon:
+GOOD 🍉
+
+COMPLETE 1
+CASE 1
+BAD :speaker:
+GOOD 🔈
+
+COMPLETE 1
+CASE 1
+BAD :heartpulse:
+GOOD 💗
+
+COMPLETE 1
+CASE 1
+BAD :lemon:
+GOOD 🍋
+
+COMPLETE 1
+CASE 1
+BAD :hash:
+GOOD #⃣
+
+COMPLETE 1
+CASE 1
+BAD :arrow_up_down:
+GOOD ↕
+
+COMPLETE 1
+CASE 1
+BAD :repeat:
+GOOD 🔁
+
+COMPLETE 1
+CASE 1
+BAD :clock11:
+GOOD 🕚
+
+COMPLETE 1
+CASE 1
+BAD :pear:
+GOOD 🍐
+
+COMPLETE 1
+CASE 1
+BAD :black_medium_small_square:
+GOOD ◾
+
+COMPLETE 1
+CASE 1
+BAD :diamond_shape_with_a_dot_inside:
+GOOD 💠
+
+COMPLETE 1
+CASE 1
+BAD :arrow_down:
+GOOD ⬇
+
+COMPLETE 1
+CASE 1
+BAD :white_medium_small_square:
+GOOD ◽
+
+COMPLETE 1
+CASE 1
+BAD :sweat_smile:
+GOOD 😅
+
+COMPLETE 1
+CASE 1
+BAD :cherry_blossom:
+GOOD 🌸
+
+COMPLETE 1
+CASE 1
+BAD :wheelchair:
+GOOD ♿
+
+COMPLETE 1
+CASE 1
+BAD :flower_playing_cards:
+GOOD 🎴
+
+COMPLETE 1
+CASE 1
+BAD :v:
+GOOD ✌
+
+COMPLETE 1
+CASE 1
+BAD :aries:
+GOOD ♈
+
+COMPLETE 1
+CASE 1
+BAD :man:
+GOOD 👨
+
+COMPLETE 1
+CASE 1
+BAD :underage:
+GOOD 🔞
+
+COMPLETE 1
+CASE 1
+BAD :leaves:
+GOOD 🍃
+
+COMPLETE 1
+CASE 1
+BAD :atm:
+GOOD 🏧
+
+COMPLETE 1
+CASE 1
+BAD :joy:
+GOOD 😂
+
+COMPLETE 1
+CASE 1
+BAD :fire_engine:
+GOOD 🚒
+
+COMPLETE 1
+CASE 1
+BAD :bust_in_silhouette:
+GOOD 👤
+
+COMPLETE 1
+CASE 1
+BAD :aquarius:
+GOOD ♒
+
+COMPLETE 1
+CASE 1
+BAD :mens:
+GOOD 🚹
+
+COMPLETE 1
+CASE 1
+BAD :alarm_clock:
+GOOD ⏰
+
+COMPLETE 1
+CASE 1
+BAD :egg:
+GOOD 🍳
+
+COMPLETE 1
+CASE 1
+BAD :clock1230:
+GOOD 🕧
+
+COMPLETE 1
+CASE 1
+BAD :no_bicycles:
+GOOD 🚳
+
+COMPLETE 1
+CASE 1
+BAD :newspaper:
+GOOD 📰
+
+COMPLETE 1
+CASE 1
+BAD :kissing_heart:
+GOOD 😘
+
+COMPLETE 1
+CASE 1
+BAD :zero:
+GOOD 0⃣
+
+COMPLETE 1
+CASE 1
+BAD :suspension_railway:
+GOOD 🚟
+
+COMPLETE 1
+CASE 1
+BAD :boy:
+GOOD 👦
+
+COMPLETE 1
+CASE 1
+BAD :credit_card:
+GOOD 💳
+
+COMPLETE 1
+CASE 1
+BAD :open_book:
+GOOD 📖
+
+COMPLETE 1
+CASE 1
+BAD :monkey_face:
+GOOD 🐵
+
+COMPLETE 1
+CASE 1
+BAD :dragon_face:
+GOOD 🐲
+
+COMPLETE 1
+CASE 1
+BAD :ru:
+GOOD 🇷🇺
+
+COMPLETE 1
+CASE 1
+BAD :raising_hand:
+GOOD 🙋
+
+COMPLETE 1
+CASE 1
+BAD :ant:
+GOOD 🐜
+
+COMPLETE 1
+CASE 1
+BAD :last_quarter_moon:
+GOOD 🌗
+
+COMPLETE 1
+CASE 1
+BAD :trident:
+GOOD 🔱
+
+COMPLETE 1
+CASE 1
+BAD :chart:
+GOOD 💹
+
+COMPLETE 1
+CASE 1
+BAD :kissing_cat:
+GOOD 😽
+
+COMPLETE 1
+CASE 1
+BAD :two_hearts:
+GOOD 💕
+
+COMPLETE 1
+CASE 1
+BAD :telephone:
+GOOD ☎
+
+COMPLETE 1
+CASE 1
+BAD :heart_eyes_cat:
+GOOD 😻
+
+COMPLETE 1
+CASE 1
+BAD :turtle:
+GOOD 🐢
+
+COMPLETE 1
+CASE 1
+BAD :pig_nose:
+GOOD 🐽
+
+COMPLETE 1
+CASE 1
+BAD :rainbow:
+GOOD 🌈
+
+COMPLETE 1
+CASE 1
+BAD :necktie:
+GOOD 👔
+
+COMPLETE 1
+CASE 1
+BAD :girl:
+GOOD 👧
+
+COMPLETE 1
+CASE 1
+BAD :poultry_leg:
+GOOD 🍗
+
+COMPLETE 1
+CASE 1
+BAD :dancers:
+GOOD 👯
+
+COMPLETE 1
+CASE 1
+BAD :u6307:
+GOOD 🈯
+
+COMPLETE 1
+CASE 1
+BAD :gun:
+GOOD 🔫
+
+COMPLETE 1
+CASE 1
+BAD :rocket:
+GOOD 🚀
+
+COMPLETE 1
+CASE 1
+BAD :moneybag:
+GOOD 💰
+
+COMPLETE 1
+CASE 1
+BAD :five:
+GOOD 5⃣
+
+COMPLETE 1
+CASE 1
+BAD :honeybee:
+GOOD 🐝
+
+COMPLETE 1
+CASE 1
+BAD :notebook_with_decorative_cover:
+GOOD 📔
+
+COMPLETE 1
+CASE 1
+BAD :kimono:
+GOOD 👘
+
+COMPLETE 1
+CASE 1
+BAD :footprints:
+GOOD 👣
+
+COMPLETE 1
+CASE 1
+BAD :o2:
+GOOD 🅾
+
+COMPLETE 1
+CASE 1
+BAD :information_source:
+GOOD ℹ
+
+COMPLETE 1
+CASE 1
+BAD :imp:
+GOOD 👿
+
+COMPLETE 1
+CASE 1
+BAD :feet:
+GOOD 🐾
+
+COMPLETE 1
+CASE 1
+BAD :large_blue_diamond:
+GOOD 🔷
