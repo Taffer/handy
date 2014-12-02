@@ -1,0 +1,25 @@
+#!/usr/bin/python2.7
+# -*- coding: utf-8 -*-
+''' pylint hacked for using PyDev with Cygwin
+
+This makes it easier to use Cygwin's python (and a nice fresh `pylint`
+installed via `pip install pylint` rather than the out-of-date version in
+Cygwin) with PyDev in Eclipse.
+'''
+
+import re
+import sys
+
+from pylint import run_pylint
+
+
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    for i in xrange(1, len(sys.argv)):
+        if '\\' in sys.argv[i]:
+            parts = sys.argv[i].split('\\')
+            if parts[0][-1] == ':':
+                parts[0] = '/cygdrive/{0}'.format(parts[0][0])
+            sys.argv[i] = '/'.join(parts)
+
+    sys.exit(run_pylint())
