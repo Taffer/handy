@@ -9,7 +9,7 @@ Handy scripts and tools that aren't part of a project.
 * `pylint_cygwin` - Make it easier to use Cygwin pylint with Eclipse PyDev.
 * `subl.sh` - Use Sublime Text 3 from Cygwin shells.
 
-These are all MIT-licensed (see [LICENSE](LICENSE)) except for
+These are all MIT-licensed (see [LICENSE](LICENSE.md)) except for
 `fortune_helper.rb`.
 
 ## fortune_helper.rb
@@ -59,5 +59,5 @@ format.
 
 # LICENSE
 
-These are all [MIT-licensed](LICENSE) except for `fortune_helper.rb`. It's not
-mine, so I have no idea what license it has.
+These are all [MIT-licensed](LICENSE.md) except for `fortune_helper.rb`. It's
+not mine, so I have no idea what license it has.
