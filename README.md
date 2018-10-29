@@ -25,6 +25,11 @@ author didn't include any info in the comments.
 Note that it doesn't allow any input from the web, and it's limited to running
 `fortune -s`, so it *shouldn't* present a security vulnerability.
 
+Preserved here for posterity.
+
+If you wrote `fortune_helper.rb` let me know and I'll replace it with a link
+to your repo or web page or whatever.
+
 ## pidgin_emoji
 
 This doesn't actually seem to work in Pidgin 2.10 on Windows; some searching
@@ -51,3 +56,8 @@ Cygwin) converts the Windows path to a UNIXy Cygwin path and carries on.
 Short script to make it easier to use Sublime Text 3 from a Cygwin shell. It
 preserves any arguments, then attempts to convert file paths to Windows
 format.
+
+# LICENSE
+
+These are all [MIT-licensed](LICENSE) except for `fortune_helper.rb`. It's not
+mine, so I have no idea what license it has.

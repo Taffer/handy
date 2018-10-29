@@ -1,6 +1,9 @@
 #!/bin/sh
 #
 # Launch Sublime Text from a Cygwin shell.
+#
+# @author: https://github.com/Taffer
+# @license: The MIT License (MIT), see LICENSE for details.
 
 # If we don't split out the args, cygpath will eat them.
 ARGS=""
