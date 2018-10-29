@@ -12,6 +12,14 @@ Handy scripts and tools that aren't part of a project.
 These are all MIT-licensed (see [LICENSE](LICENSE.md)) except for
 `fortune_helper.rb`.
 
+## find-broken-perms.h
+
+Shell script to search for files that have had their permissions blown off.
+This seems to happen under Windows Subsystem for Linux when I'm editing files
+using the Windows version of SublimeText.
+
+Yes, I know you're not supposed to touch WSL files with Windows apps.
+
 ## fortune_helper.rb
 
 A simple-ish Ruby web server that calls `fortune(6)`, intended for running
