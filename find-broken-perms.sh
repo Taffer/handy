@@ -20,5 +20,5 @@ for name in "$@" ; do
         continue
     fi
 
-    find "$name" -type f -print0 | xargs -0 stat -c '%a %n' | grep '^0 ' | awk '{print $2}'
+    find "$name" -type f -print0 | xargs -0 stat -c '%a %n' | grep '^0 '
 done
