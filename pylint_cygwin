@@ -5,6 +5,9 @@
 This makes it easier to use Cygwin's python (and a nice fresh `pylint`
 installed via `pip install pylint` rather than the out-of-date version in
 Cygwin) with PyDev in Eclipse.
+
+@author: https://github.com/Taffer
+@license: The MIT License (MIT), see LICENSE for details.
 '''
 
 import re

@@ -4,17 +4,47 @@ Handy scripts and tools that aren't part of a project.
 
 * `crush.sh` - Shell script that uses `pngcrush` to make sure your PNGs are as
   small as possible.
-* `pidgin_emoji.py` - Convert Taehoon Kim's "emoji" module into Pidgin's
+* `fortune_helper.rb` - Integrate  `fortune(6)` with
+  [xscreensaver](https://www.jwz.org/xscreensaver/).
+* `pidgin_emoji.py` - Convert Taehoon Kim's "emoji" module into Pidgin's\
   dictionary format.
 * `pylint_cygwin` - Make it easier to use Cygwin pylint with Eclipse PyDev.
+* `subl.sh` - Use Sublime Text 3 from Cygwin shells.
 
-These are all MIT licensed, so go nuts.
+These are all MIT-licensed (see [LICENSE](LICENSE.md)) except for
+`fortune_helper.rb`.
 
 ## crush.sh
 
 Feed your PNG files to this script and they'll become as small as possible
 (depends on `pngcrush` and expects `/bin/bash`). I think I saved about 30MB in
 my wallpaper collection...
+
+## find-broken-perms.h
+
+Shell script to search for files that have had their permissions blown off.
+This seems to happen under Windows Subsystem for Linux when I'm editing files
+using the Windows version of SublimeText.
+
+Yes, I know you're not supposed to touch WSL files with Windows apps.
+
+## fortune_helper.rb
+
+A simple-ish Ruby web server that calls `fortune(6)`, intended for running
+locally as a endpoint for some of the
+[xscreensaver](https://www.jwz.org/xscreensaver/) hacks that display text in
+an interesting way.
+
+I can't remember where I got this, and I don't program in Ruby; the original
+author didn't include any info in the comments.
+
+Note that it doesn't allow any input from the web, and it's limited to running
+`fortune -s`, so it *shouldn't* present a security vulnerability.
+
+Preserved here for posterity.
+
+If you wrote `fortune_helper.rb` let me know and I'll replace it with a link
+to your repo or web page or whatever.
 
 ## pidgin_emoji
 
@@ -36,3 +66,14 @@ at the start, giving you the useless path of
 
 This version of the `pylint` script (which lives in `/usr/bin/pylint` on
 Cygwin) converts the Windows path to a UNIXy Cygwin path and carries on.
+
+## subl.sh
+
+Short script to make it easier to use Sublime Text 3 from a Cygwin shell. It
+preserves any arguments, then attempts to convert file paths to Windows
+format.
+
+## LICENSE
+
+These are all [MIT-licensed](LICENSE.md) except for `fortune_helper.rb`. It's
+not mine, so I have no idea what license it has.
