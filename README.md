@@ -2,8 +2,19 @@
 
 Handy scripts and tools that aren't part of a project.
 
-* `pidgin_emoji.py` - Convert Taehoon Kim's "emoji" module into Pidgin's dictionary format.
+* `crush.sh` - Shell script that uses `pngcrush` to make sure your PNGs are as
+  small as possible.
+* `pidgin_emoji.py` - Convert Taehoon Kim's "emoji" module into Pidgin's
+  dictionary format.
 * `pylint_cygwin` - Make it easier to use Cygwin pylint with Eclipse PyDev.
+
+These are all MIT licensed, so go nuts.
+
+## crush.sh
+
+Feed your PNG files to this script and they'll become as small as possible
+(depends on `pngcrush` and expects `/bin/bash`). I think I saved about 30MB in
+my wallpaper collection...
 
 ## pidgin_emoji
 
