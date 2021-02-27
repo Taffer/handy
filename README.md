@@ -1,15 +1,26 @@
-# handy
+# Handy
 
 Handy scripts and tools that aren't part of a project.
 
 * `crush.sh` - Shell script that uses `pngcrush` to make sure your PNGs are as
   small as possible.
-* `fortune_helper.rb` - Integrate  `fortune(6)` with
-  [xscreensaver](https://www.jwz.org/xscreensaver/).
-* `pidgin_emoji.py` - Convert Taehoon Kim's "emoji" module into Pidgin's\
-  dictionary format.
+
+The stuff in sub-directories is of limited use.
+
+In `cygwin`:
+
 * `pylint_cygwin` - Make it easier to use Cygwin pylint with Eclipse PyDev.
 * `subl.sh` - Use Sublime Text 3 from Cygwin shells.
+
+In `macosx`:
+
+* `fortune_helper.rb` - Integrate  `fortune(6)` with
+  [xscreensaver](https://www.jwz.org/xscreensaver/).
+
+In `pidgin`:
+
+* `pidgin_emoji.py` - Convert Taehoon Kim's "emoji" module into Pidgin's\
+  dictionary format.
 
 These are all MIT-licensed (see [LICENSE](LICENSE.md)) except for
 `fortune_helper.rb`.
