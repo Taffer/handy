@@ -4,6 +4,9 @@ Handy scripts and tools that aren't part of a project.
 
 * `crush.sh` - Shell script that uses `pngcrush` to make sure your PNGs are as
   small as possible.
+* `open` - Simulate macOS's `open` command using `xdg-open`, which is nearly
+  the same thing.
+* `rclone-sync-music.sh` - Use `rclone` to back up my music collection to B2.
 
 The stuff in sub-directories is of limited use.
 
@@ -57,6 +60,12 @@ Preserved here for posterity.
 If you wrote `fortune_helper.rb` let me know and I'll replace it with a link
 to your repo or web page or whatever.
 
+## open
+
+I use macOS at work, so I got very used to being able to `open` things;
+`xdg-open` is basically the same command, but without my muscle memory, and
+with chattier applications.
+
 ## pidgin_emoji
 
 This doesn't actually seem to work in Pidgin 2.10 on Windows; some searching
@@ -77,6 +86,16 @@ at the start, giving you the useless path of
 
 This version of the `pylint` script (which lives in `/usr/bin/pylint` on
 Cygwin) converts the Windows path to a UNIXy Cygwin path and carries on.
+
+## rclone-sync-music.sh
+
+Syncs my music collection to Backblaze's excellent B2 cloud storage using
+`rclone`. Limits bandwidth usage during the day so I could still work from
+home while doing the initial upload (which took a week or so). Also, so my
+family doesn't kill me for hogging the limited up-stream bandwidth.
+
+Sure be nice if Canada's Internet wasn't controlled by a colluding duopoly.
+Maybe in another 20 years I'll be able to get fibre to my home.
 
 ## subl.sh
 
