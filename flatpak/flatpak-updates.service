@@ -1,0 +1,11 @@
+[Unit]
+Description=Update flatpak pages, remove unused runtimes.
+
+[Service]
+Type=oneshot
+User=root
+ExecStart=flatpak update --assumeyes --noninteractive
+ExecStartPost=flatpak uninstall --unused --assumeyes --noninteractive
+
+[Install]
+WantedBy=multi-user.target
